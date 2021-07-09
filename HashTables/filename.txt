@@ -1,0 +1,11 @@
+apple
+bat
+bar
+cat
+dog
+elephant
+foo
+Giraffe
+Hello
+idea
+jump
